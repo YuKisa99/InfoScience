@@ -6,3 +6,10 @@ We learned about computational thinking as well as practicing a way to give a cl
 I learned what computational thinking is. It is a way of thinking that are made up of 4 steps; which is a way of thinking made up of 4 steps; decomosition, abstraction, patter recognition and algorithm. 
 1. What question do I have? 
 One question I have from this class is wether there is a situation computatinal thinking is not very suitable or not and when that would be.
+
+1. What did we do? 
+We learned how to use processing and the codes you can draw shapes.
+1. What did you learn? 
+I learned what computational thinking is. It is a way of thinking that are made up of 4 steps; which is a way of thinking made up of 4 steps; decomosition, abstraction, patter recognition and algorithm. 
+1. What question do I have? 
+One question I have from this class is wether there is a situation computatinal thinking is not very suitable or not and when that would be.
