@@ -1,4 +1,4 @@
-# Feburary 10 Info Science
+# Feburary 10th Info Science
 
 1. What did we do? 
 We learned about computational thinking as well as practicing a way to give a clear intstrucion by making a jam sandwich.
